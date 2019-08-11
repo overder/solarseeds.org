@@ -11,6 +11,10 @@ h1, h2, h3, h4, h5, h6 {
     color: white;
     text-shadow: 0 0 5px black;
 }
+.container {
+    background: black;
+    color: white;
+}
 
 a {
     color: #000077;
@@ -32,5 +36,5 @@ a:hover {
     background: none;
 }
 .top-bar-left {
-    width: 100%;
+    flex: 1;
 }
