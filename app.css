@@ -30,3 +30,6 @@ a:hover {
 .top-bar ul {
     background: none;
 }
+.top-bar-left {
+    width: 100%;
+}
