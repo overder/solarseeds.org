@@ -1,0 +1,28 @@
+* {
+    font-family: 'Catamaran', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Stalinist One', cursive;
+    color: #ee7700
+}
+
+.callout h1, .callout h2 {
+    color: white
+}
+
+a {
+    color: #000077
+}
+a:hover {
+    color: #000077
+}
+
+.top-bar {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(238,119,0,1) 35%, rgba(238,187,17,1) 100%);
+    color: white
+}
+.top-bar ul {
+    background: none;
+}
