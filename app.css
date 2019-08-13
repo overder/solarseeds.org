@@ -24,11 +24,12 @@ a {
 a:hover {
     color: #668888;
 }
-
 .menu>li>a:hover {
     color: white;
 }
-
+.menu>li>a {
+    text-align: center
+}
 .top-bar {
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(238,119,0,1) 35%, rgba(238,187,17,1) 100%);
