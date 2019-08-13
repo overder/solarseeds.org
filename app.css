@@ -7,7 +7,7 @@ h1, h2, h3, h4, h5, h6 {
     color: blue;
 }
 
-.callout h1, .callout h2 {
+.callout h1, .callout h4 {
     color: white;
     text-shadow: 0 0 5px black;
 }
