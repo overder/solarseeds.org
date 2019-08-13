@@ -18,6 +18,11 @@ Headings: Stalinist One
 
 Body: Catamaran
 
+# Icons
+Font Awesome
+
+https://fontawesome.com/
+
 # CSS
 
 
